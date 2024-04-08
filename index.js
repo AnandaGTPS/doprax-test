@@ -294,7 +294,7 @@ conn.ev.on("connection.update",async  (s) => {
 console.log(chalk.yellow(`Starting connecting to ${require('./package').name}`)) 
         	console.log(chalk.magenta(` `))
             console.log(chalk.green(require('./package').name+`, connected to => ` + JSON.stringify(conn.user, null, 2)))
- fs.readdir('./src/jadibot', (err, files) => {
+ /**fs.readdir('./src/jadibot', (err, files) => {
  const { jadibot } = require('./jadibot') 
  files.length ? console.log(chalk.yellow(`\nStarting connecting to jadibot`)):false
  files.forEach((file) => {
@@ -302,7 +302,7 @@ console.log(chalk.yellow(`Starting connecting to ${require('./package').name}`))
  	if(users.jadibot) jadibot(conn, file);
  console.log(chalk.green(`${users.jadibot ? "Connected":"Disconnected"} to => ${file}`)) 
  }) 
-})
+})**/
         }
         if (
             connection === "close" &&
