@@ -1,0 +1,1483 @@
+{
+  "user": {},
+  "users": {
+    "6282139672290@s.whatsapp.net": {
+      "id": "6282139672290@s.whatsapp.net",
+      "pushname": "Naaazzzzz",
+      "limit": 61,
+      "balance": 0,
+      "premium": false,
+      "exp": 4388,
+      "level": 18,
+      "coin": 0,
+      "warn": {
+        "120363149583745522@g.us": {
+          "warn": {
+            "1": {
+              "warn_by": "6285745241733@s.whatsapp.net",
+              "created_at": 1712050611090,
+              "reason": "pugi"
+            },
+            "2": {
+              "warn_by": "6282139672290@s.whatsapp.net",
+              "created_at": 1712050651843,
+              "reason": "slebew"
+            }
+          }
+        }
+      },
+      "afk": 0,
+      "cooldown": 1712377211306
+    },
+    "6281217435667@s.whatsapp.net": {
+      "id": "6281217435667@s.whatsapp.net",
+      "pushname": "JustSkyDev",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1168,
+      "level": 2,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6281945403233@s.whatsapp.net": {
+      "id": "6281945403233@s.whatsapp.net",
+      "pushname": "Gabriel(8D)",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 433,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6288216738110@s.whatsapp.net": {
+      "id": "6288216738110@s.whatsapp.net",
+      "pushname": "Momy",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 257,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6285173338213@s.whatsapp.net": {
+      "id": "6285173338213@s.whatsapp.net",
+      "pushname": "Stevyuss~",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1309,
+      "level": 2,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6282226999935@s.whatsapp.net": {
+      "id": "6282226999935@s.whatsapp.net",
+      "pushname": "SL-Bot",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 945,
+      "level": 1,
+      "coin": 0,
+      "warn": {
+        "120363260404797483@g.us": {
+          "warn": {
+            "1": {
+              "warn_by": "6282139672290@s.whatsapp.net",
+              "created_at": 1712049835273,
+              "reason": "a"
+            }
+          }
+        }
+      },
+      "afk": 0
+    },
+    "6285745241733@s.whatsapp.net": {
+      "id": "6285745241733@s.whatsapp.net",
+      "pushname": "Nperma",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1423,
+      "level": 5,
+      "coin": 0,
+      "warn": {
+        "120363149583745522@g.us": {
+          "warn": {
+            "1": {
+              "warn_by": "6282139672290@s.whatsapp.net",
+              "created_at": 1712049941789,
+              "reason": "pedophile"
+            },
+            "2": {
+              "warn_by": "6282139672290@s.whatsapp.net",
+              "created_at": 1712049950288,
+              "reason": "mesum"
+            },
+            "3": {
+              "warn_by": "6282139672290@s.whatsapp.net",
+              "created_at": 1712049954321,
+              "reason": "gay"
+            },
+            "4": {
+              "warn_by": "6282139672290@s.whatsapp.net",
+              "created_at": 1712049960344,
+              "reason": "bahaya14"
+            },
+            "6": {
+              "warn_by": "6282139672290@s.whatsapp.net",
+              "created_at": 1712050563152,
+              "reason": "slow respond      "
+            }
+          }
+        }
+      },
+      "afk": 0,
+      "cooldown": 1712065388713
+    },
+    "62882006360868@s.whatsapp.net": {
+      "id": "62882006360868@s.whatsapp.net",
+      "pushname": "P telah mengeluarkan Anda",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1170,
+      "level": 2,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712065412546
+    },
+    "628812078418@s.whatsapp.net": {
+      "id": "628812078418@s.whatsapp.net",
+      "pushname": "Ahmad??",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 929,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712065414261
+    },
+    "62881036991678@s.whatsapp.net": {
+      "id": "62881036991678@s.whatsapp.net",
+      "pushname": "ᶜᴿᴬᶻᵞkíllєr",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 853,
+      "level": 2,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712302600796
+    },
+    "6282318222611@s.whatsapp.net": {
+      "id": "6282318222611@s.whatsapp.net",
+      "pushname": "Renz",
+      "limit": 49,
+      "balance": 0,
+      "premium": false,
+      "exp": 121,
+      "level": 2,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712065773074
+    },
+    "6282393307733@s.whatsapp.net": {
+      "id": "6282393307733@s.whatsapp.net",
+      "pushname": "ᅠ",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1374,
+      "level": 7,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712302621041
+    },
+    "6282138841033@s.whatsapp.net": {
+      "id": "6282138841033@s.whatsapp.net",
+      "pushname": "zorovenzo",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 350,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712066402522
+    },
+    "6282268882304@s.whatsapp.net": {
+      "id": "6282268882304@s.whatsapp.net",
+      "pushname": ".",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 408,
+      "level": 2,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "78400601505953@lid": {
+      "id": "78400601505953@lid",
+      "pushname": "soyjson",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 285,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6281398818561@s.whatsapp.net": {
+      "id": "6281398818561@s.whatsapp.net",
+      "pushname": "soyjson",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 878,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "26452787523711@lid": {
+      "id": "26452787523711@lid",
+      "pushname": "IDStorm",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 459,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "201356690337979@lid": {
+      "id": "201356690337979@lid",
+      "pushname": "~ أحمد",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 467,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6281390930615@s.whatsapp.net": {
+      "id": "6281390930615@s.whatsapp.net",
+      "pushname": "-yuss",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 21,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6283894556422@s.whatsapp.net": {
+      "id": "6283894556422@s.whatsapp.net",
+      "pushname": "Aku Dimz 🔥",
+      "limit": 55,
+      "balance": 0,
+      "premium": false,
+      "exp": 406,
+      "level": 8,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712302581992
+    },
+    "6289632051115@s.whatsapp.net": {
+      "id": "6289632051115@s.whatsapp.net",
+      "pushname": "https://ẉ𝖺.𝖼𝗈𝗋𝖾/F̑̈𝗋𝖾𝗇𝗓𝗒형사",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 649,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 0
+    },
+    "923353145876@s.whatsapp.net": {
+      "id": "923353145876@s.whatsapp.net",
+      "pushname": "Lalit Kumar Ratanani",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1147,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712144120658
+    },
+    "6285707224706@s.whatsapp.net": {
+      "id": "6285707224706@s.whatsapp.net",
+      "pushname": "~ :V",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 913,
+      "level": 2,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712302485535
+    },
+    "6285175463174@s.whatsapp.net": {
+      "id": "6285175463174@s.whatsapp.net",
+      "pushname": "ᴅᴀʀᴋ -_-ɢʀᴇᴇɴ---ʙᴏᴛᴢ",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 3118,
+      "level": 3,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 0
+    },
+    "67787535974606@lid": {
+      "id": "67787535974606@lid",
+      "pushname": "X-TE 2 Fahrel N.A",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 193,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6282251326793@s.whatsapp.net": {
+      "id": "6282251326793@s.whatsapp.net",
+      "pushname": "Hazzm🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 304,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712302560584
+    },
+    "6285656036548@s.whatsapp.net": {
+      "id": "6285656036548@s.whatsapp.net",
+      "pushname": "NotMe-Botz MD",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1027,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6288987281198@s.whatsapp.net": {
+      "id": "6288987281198@s.whatsapp.net",
+      "pushname": "a",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1135,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0,
+      "cooldown": 1712302572633
+    },
+    "94343301959930@lid": {
+      "id": "94343301959930@lid",
+      "pushname": "Arta Aditia",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 304,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6281284417749@s.whatsapp.net": {
+      "id": "6281284417749@s.whatsapp.net",
+      "pushname": "(⁠っ⁠˘̩⁠╭⁠╮⁠˘̩⁠)⁠っRyu",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 357,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6285731649422@s.whatsapp.net": {
+      "id": "6285731649422@s.whatsapp.net",
+      "pushname": "Dye.",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1465,
+      "level": 2,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "226310601347204@lid": {
+      "id": "226310601347204@lid",
+      "pushname": "ЮрийПилиа",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 446,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "220091723587687@lid": {
+      "id": "220091723587687@lid",
+      "pushname": "Elmika Anandrio",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 71,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "170128083841045@lid": {
+      "id": "170128083841045@lid",
+      "pushname": "Charley Boy",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 489,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "246170496548998@lid": {
+      "id": "246170496548998@lid",
+      "pushname": "RAFIKIL HANAN",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 427,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "159051497394237@lid": {
+      "id": "159051497394237@lid",
+      "pushname": "【 Ananta-🎟️⚡】",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 452,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "25928751149262@lid": {
+      "id": "25928751149262@lid",
+      "pushname": "Fithri Fithriyah🌷",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 27,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "172580677935294@lid": {
+      "id": "172580677935294@lid",
+      "pushname": "Dani82ID",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 617,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "137091430236236@lid": {
+      "id": "137091430236236@lid",
+      "pushname": "ADrs. Roby Siregar Lc. MA",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 536,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "28175119700157@lid": {
+      "id": "28175119700157@lid",
+      "pushname": "999",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 449,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "259205655228647@lid": {
+      "id": "259205655228647@lid",
+      "pushname": "Gen X",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 333,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "209083521085551@lid": {
+      "id": "209083521085551@lid",
+      "pushname": "GigaPro",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 21,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6283873192689@s.whatsapp.net": {
+      "id": "6283873192689@s.whatsapp.net",
+      "pushname": "علم",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 847,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "200111586046180@lid": {
+      "id": "200111586046180@lid",
+      "pushname": "Nperma",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 89,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6281390708065@s.whatsapp.net": {
+      "id": "6281390708065@s.whatsapp.net",
+      "pushname": "Andrekk",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 457,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "179933745807557@lid": {
+      "id": "179933745807557@lid",
+      "pushname": "YS㋡⁩",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 422,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "136769005690936@lid": {
+      "id": "136769005690936@lid",
+      "pushname": "kreyzia",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 137,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6285750072400@s.whatsapp.net": {
+      "id": "6285750072400@s.whatsapp.net",
+      "pushname": "Yusril No 25",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 233,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "68607874715746@lid": {
+      "id": "68607874715746@lid",
+      "pushname": "KeBriLish𒉭",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 367,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "52957047468103@lid": {
+      "id": "52957047468103@lid",
+      "pushname": "Alfido",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 10,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "275977536016487@lid": {
+      "id": "275977536016487@lid",
+      "pushname": "Salvation",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 962,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6289668698086@s.whatsapp.net": {
+      "id": "6289668698086@s.whatsapp.net",
+      "pushname": "ʜɪɴᴀᴛᴀ ʜᴏsʜɪɴᴏ - ᴍᴅ🟢",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 493,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "221903914573830@lid": {
+      "id": "221903914573830@lid",
+      "pushname": "alray",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 450,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "104355206266948@lid": {
+      "id": "104355206266948@lid",
+      "pushname": "Rick",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 387,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "263960553087065@lid": {
+      "id": "263960553087065@lid",
+      "pushname": "Danil Peuobuq",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 136,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6283194927666@s.whatsapp.net": {
+      "id": "6283194927666@s.whatsapp.net",
+      "pushname": "「 ✦ AKBAR GANTENG ✦ 」",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 363,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "280856769863834@lid": {
+      "id": "280856769863834@lid",
+      "pushname": "No Name",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 149,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "170952700756112@lid": {
+      "id": "170952700756112@lid",
+      "pushname": "Nyoh Wes Tak Ke'i Tutor🗿",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 35,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "228556684718220@lid": {
+      "id": "228556684718220@lid",
+      "pushname": "JOKOBOB SQUAREDODO",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 274,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6283800758363@s.whatsapp.net": {
+      "id": "6283800758363@s.whatsapp.net",
+      "pushname": "giaw..",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 1347,
+      "level": 3,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "232392207945814@lid": {
+      "id": "232392207945814@lid",
+      "pushname": "xzI🇹🇭🇮🇩",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 197,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6289688206739@s.whatsapp.net": {
+      "id": "6289688206739@s.whatsapp.net",
+      "pushname": "Wily",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 171,
+      "level": 3,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "62895417766481@s.whatsapp.net": {
+      "id": "62895417766481@s.whatsapp.net",
+      "pushname": "Doooouuuu",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 63,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "45325075132478@lid": {
+      "id": "45325075132478@lid",
+      "pushname": "Syid",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 77,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    },
+    "6281385062956@s.whatsapp.net": {
+      "id": "6281385062956@s.whatsapp.net",
+      "pushname": "ZackMans",
+      "limit": 50,
+      "balance": 0,
+      "premium": false,
+      "exp": 817,
+      "level": 1,
+      "coin": 0,
+      "warn": {},
+      "afk": 0
+    }
+  },
+  "chats": {
+    "6282139672290@s.whatsapp.net": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363062632024497@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363045684339365@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363260404797483@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363149583745522@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363190901103905@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363261051401908@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363046013966133@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363204968105586@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363167427377556@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363212972916323@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363200130835459@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363219762983871@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363021051105082@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "16479980513-1442509710@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363040018994502@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "6283894556422@s.whatsapp.net": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363227018188403@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    },
+    "120363177689482982@g.us": {
+      "antilink": false,
+      "antilinkv2": false,
+      "antibot": false
+    }
+  },
+  "whitelist": [
+    "120363149583745522@g.us"
+  ],
+  "blacklist": [],
+  "database": {
+    "enable": {
+      "antilink": {
+        "level": "group",
+        "bot_level": "admin",
+        "help": "Antilink normal, jika ada member yang mengirim link group whatsapp maka bot akan mengeluarkan member tersebut"
+      },
+      "antilinkv2": {
+        "level": "group",
+        "bot_level": "admin",
+        "help": "Antilink versi 2, jika ada member yang mengirim link group whatsapp maka bot akan menghapus pesan tersebut"
+      },
+      "simsimi": {
+        "level": "all",
+        "bot_level": null,
+        "help": "jika di nyalakan bot akan membalas pesan otomatis di private chats menggunakan simsimi"
+      },
+      "chatgpt4": {
+        "level": "all",
+        "bot_level": null,
+        "help": "jika di nyalakan bot akan membalas pesan otomatis di private chats menggunakan ChatGPT V4"
+      },
+      "autoread": {
+        "level": "all",
+        "bot_level": null,
+        "default": true,
+        "help": "Jika di nyalakan maka bot akan langsung melihat semua pesan / read pesan"
+      },
+      "autoreact": {
+        "level": "all",
+        "bot_level": null,
+        "default": true
+      },
+      "onlygroup": {
+        "level": "all",
+        "bot_level": null,
+        "help": "jika di nyalakan, bot hanya akan respon ke group chats"
+      },
+      "whitelist": {
+        "level": "all",
+        "bot_level": null
+      },
+      "blacklist": {
+        "level": "all",
+        "bot_level": null
+      },
+      "antibot": {
+        "level": "group",
+        "bot_level": "admin"
+      }
+    },
+    "msg": {}
+  },
+  "menfess": {},
+  "settings": {
+    "all": {
+      "simsimi": false,
+      "chatgpt4": false,
+      "autoread": true,
+      "autoreact": true,
+      "onlygroup": false,
+      "whitelist": true,
+      "blacklist": false
+    }
+  },
+  "achievement": {
+    "6282139672290@s.whatsapp.net": {
+      "achievement": [
+        "achievement_0",
+        "achievement_1"
+      ],
+      "progess": {
+        "chats": 624,
+        "commands": 169
+      }
+    },
+    "6281217435667@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 9,
+        "commands": 0
+      }
+    },
+    "6281945403233@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6288216738110@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6285173338213@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 9,
+        "commands": 0
+      }
+    },
+    "6282226999935@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 7,
+        "commands": 0
+      }
+    },
+    "6285745241733@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 43,
+        "commands": 3
+      }
+    },
+    "62882006360868@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 8,
+        "commands": 0
+      }
+    },
+    "628812078418@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 4,
+        "commands": 1
+      }
+    },
+    "62881036991678@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 7,
+        "commands": 0
+      }
+    },
+    "6282318222611@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 5,
+        "commands": 1
+      }
+    },
+    "6282393307733@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 86,
+        "commands": 12
+      }
+    },
+    "6282138841033@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6282268882304@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 5,
+        "commands": 0
+      }
+    },
+    "78400601505953@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6281398818561@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 2,
+        "commands": 0
+      }
+    },
+    "26452787523711@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "201356690337979@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 2,
+        "commands": 0
+      }
+    },
+    "6281390930615@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6283894556422@s.whatsapp.net": {
+      "achievement": [
+        "achievement_0"
+      ],
+      "progess": {
+        "chats": 113,
+        "commands": 5
+      }
+    },
+    "6289632051115@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 2,
+        "commands": 1
+      }
+    },
+    "923353145876@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 3,
+        "commands": 3
+      }
+    },
+    "6285707224706@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 9,
+        "commands": 1
+      }
+    },
+    "6285175463174@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 28,
+        "commands": 2
+      }
+    },
+    "67787535974606@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6282251326793@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6285656036548@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 4,
+        "commands": 0
+      }
+    },
+    "6288987281198@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 3,
+        "commands": 0
+      }
+    },
+    "94343301959930@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6281284417749@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 2,
+        "commands": 0
+      }
+    },
+    "6285731649422@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 11,
+        "commands": 0
+      }
+    },
+    "226310601347204@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "220091723587687@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "170128083841045@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "246170496548998@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "159051497394237@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "25928751149262@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "172580677935294@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 2,
+        "commands": 0
+      }
+    },
+    "137091430236236@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 3,
+        "commands": 0
+      }
+    },
+    "28175119700157@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "259205655228647@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "209083521085551@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6283873192689@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 3,
+        "commands": 0
+      }
+    },
+    "200111586046180@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6281390708065@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "179933745807557@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "136769005690936@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6285750072400@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "68607874715746@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "52957047468103@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "275977536016487@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 3,
+        "commands": 0
+      }
+    },
+    "6289668698086@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "221903914573830@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "104355206266948@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "263960553087065@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6283194927666@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "280856769863834@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "170952700756112@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "228556684718220@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6283800758363@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 19,
+        "commands": 0
+      }
+    },
+    "232392207945814@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6289688206739@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 16,
+        "commands": 0
+      }
+    },
+    "62895417766481@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "45325075132478@lid": {
+      "achievement": [],
+      "progess": {
+        "chats": 1,
+        "commands": 0
+      }
+    },
+    "6281385062956@s.whatsapp.net": {
+      "achievement": [],
+      "progess": {
+        "chats": 4,
+        "commands": 0
+      }
+    }
+  }
+}
